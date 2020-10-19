@@ -8,6 +8,7 @@ footnoteReturnLinkContents = "^"
 [author]
 name = "毛亚琛"
 abstract = "Hello World!"
+url = "https://maoyachen.com"
 
 [taxonomies]
 category = "categories"
