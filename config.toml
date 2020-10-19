@@ -1,0 +1,16 @@
+baseURL = "c2020.maoyachen.com"
+languageCode = "zh-cn"
+title = "C程序设计2020秋季学期"
+theme = "HugoTex"
+paginate = 3
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[author]
+name = "毛亚琛"
+abstract = "Hello World!"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
