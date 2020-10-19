@@ -1,4 +1,4 @@
-baseURL = "c2020.maoyachen.com"
+baseURL = "https://c2020.maoyachen.com/"
 languageCode = "zh-cn"
 title = "C程序设计2020秋季学期"
 theme = "HugoTex"
