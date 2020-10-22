@@ -4,10 +4,14 @@ title = "C程序设计2020秋季学期"
 paginate = 3
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+hasCJKLanguage = true
+
+[Params]
+math=true
 
 [author]
 name = "毛亚琛"
-abstract = "Hello World!"
+abstract = "这里是一些课外补充文章的集合，课外服用，效果极佳。计科201班/21-30号和计科202/1-10号课程交流qq群：661205810。2020年10月22日。"
 url = "https://maoyachen.com"
 
 [taxonomies]
